@@ -1,5 +1,7 @@
+// push
 // Branch
 // master
+
 // pull
 // merge request MR
 // repository - papka
@@ -13,4 +15,10 @@
 // git config --global user.email "webbrain@gmail.com"
 
 // PUSH
-// 1 git add .
+// 1 - git add .
+// 2 - git commit -m '...'
+// 3 - git push origin master
+
+// Branch
+// git branch branchName
+// git checkout branchName
